@@ -1,4 +1,4 @@
-<h1 align="center">GrandLine 1.5</h1>
+<h1 align="center">GrandLine 1.5.0</h1>
 
 **Trillium INC | https://discord.gg/vzXzFpv2gk**
 
