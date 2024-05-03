@@ -20,4 +20,4 @@ His last client was an Exit Scam (virgins).
 
 # GUI (Bind: F4)
 
-![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/grandline-gui.png?raw=true)
+![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/grandline-gui2.png?raw=true)
