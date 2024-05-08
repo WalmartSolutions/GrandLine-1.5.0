@@ -18,6 +18,6 @@ His last client was an Exit Scam (virgins).
 - [3000IQPlay][1] - Cracking.
 - ??? - Jar.
 
-# GUI (Bind: F4)
+# GUI (Bind: RShift)
 
 ![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/grandline-gui2.png?raw=true)
